@@ -1,5 +1,25 @@
 [class*="col-"] {
-    line-height: 99px;
-    border: 1px solid #000000;
-    background-color: #b5b5b5;
+    line-height: 75px;
+    text-align: center;
+    color: transparent;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.bg-black {
+    background-color: #000000;
+}
+
+.bg-red {
+    background-color: #ff0000;
+}
+
+.bg-blue {
+    background-color: #0000ff;
+}
+
+.bg-bluelight {
+    background-color: #00ffff;
 }
